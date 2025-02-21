@@ -147,6 +147,9 @@ http://localhost/osTicket
 #### **As an End-User**:
 1. Create a ticket:
  - **Issue**: CFO’s laptop will no longer turn on.
+<p>
+<img src="https://github.com/Drew-Stokes/osTicket---Ticket-Lifecycle/blob/3a36447c6863f63041b1a936139e8b10db1c9070/cfo_ticket.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
+</p>
 
 #### **As a Help Desk Agent (John)**:
 1. Observe the ticket’s properties:
@@ -154,7 +157,9 @@ http://localhost/osTicket
  - 🏢 **Department**  
  - ⏳ **SLA**  
  - 👤 **Assigned To**  
-
+<p>
+<img src="https://github.com/Drew-Stokes/osTicket---Ticket-Lifecycle/blob/3a36447c6863f63041b1a936139e8b10db1c9070/setting_properties_on_cfo_ticket.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
+</p>
 2. Set properties:
  - **SLA**: ⏳ **Sev-B (4 hours, 24/7)**  
  - **Department**: **Support**  
