@@ -127,9 +127,11 @@ http://localhost/osTicket
  - 👤 **Assigned To**  
 
 2. Set properties:
- - **SLA**: ⏳ **Sev-B (4 hours, 24/7)**  
+ - **SLA**: ⏳ **Sev-C (4 hours, 24/7)**  
  - **Department**: **Support**  
-
+<p>
+<img src="https://github.com/Drew-Stokes/osTicket---Ticket-Lifecycle/blob/181f4337f9f3a9962c68d777085415eb679e690d/adobe_ticket.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
+</p>
 3. **Work the ticket to completion as John**.
 </details>
 
