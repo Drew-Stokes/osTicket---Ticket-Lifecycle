@@ -170,49 +170,6 @@ http://localhost/osTicket
 
 ---
 
-## **Step 4: Escalation and Access Control**
-<details>
-<summary><b>Click to Expand</b></summary>
-
-1. **Set all tickets' properties**:  
- - **Sev-A tickets last (SysAdmins)**.  
- - Observe that the **ticket becomes inaccessible** to John.  
-
-2. **Switch to the Admin Panel**:
- - Assign yourself **View-Access** to **SysAdmins**.
-
-3. **Switch back to the Agent Panel**:
- - Observe the **escalated ticket**.  
- - Notice that you can **no longer make changes** to it.  
-</details>
-
----
-
-## **Step 5: Completing and Reviewing Tickets**
-<details>
-<summary><b>Click to Expand</b></summary>
-
-✅ **Solve all remaining tickets** in the system.  
-✅ **Explain how most ticketing systems (including osTicket) send email notifications** when a ticket is updated, allowing users to respond via email.  
-✅ **Understand ticket intake in real life (IRL)**:
- - Tickets may come from **phone, chat apps, email, web forms, or in-person** interactions.  
- - Many users **approach IT directly**, but **always log tickets for tracking and metrics**.  
-</details>
-
----
-
-## **Step 6: Additional Practice and Technical Skills**
-<details>
-<summary><b>Click to Expand</b></summary>
-
-- There is **much more to explore** in osTicket—take time to review its **email features** and automation tools.  
-- **Redo this lab multiple times** until you can complete it from memory using a simple checklist.  
-- Building **technical intuition** comes from **repetition and hands-on experience**.  
-- Revisit the **Technical Skill Pillar** and refine your troubleshooting process.  
-</details>
-
----
-
 ## 🎉 **Lab Complete!**
 You've successfully created, escalated, and resolved tickets in osTicket! 🚀 Keep practi
 </p>
