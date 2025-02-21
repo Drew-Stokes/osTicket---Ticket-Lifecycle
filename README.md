@@ -59,8 +59,16 @@ http://localhost/osTicket
 <details>
 <summary><b>Click to Expand</b></summary>
 
-1. Change **SysAdmins** to a **Top-Level Department**.  
+1. Change **SysAdmins** to a **Top-Level Department**.
+   <p>
+<img src="https://github.com/Drew-Stokes/osTicket---Ticket-Lifecycle/blob/0c8b00ca1a565b881f306eeff1ec75fdf35a45ec/top_level_sysadmin.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
+</p>
+ 
 2. **Delete** (not archive) the **Maintenance Department**.
+   <p>
+<img src="https://github.com/Drew-Stokes/osTicket---Ticket-Lifecycle/blob/0c8b00ca1a565b881f306eeff1ec75fdf35a45ec/delete_maitanance.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
+</p>
+
 </details>
 
 ---
