@@ -133,6 +133,9 @@ http://localhost/osTicket
 <img src="https://github.com/Drew-Stokes/osTicket---Ticket-Lifecycle/blob/181f4337f9f3a9962c68d777085415eb679e690d/adobe_ticket.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
 </p>
 3. **Work the ticket to completion as John**.
+<p>
+<img src="https://github.com/Drew-Stokes/osTicket---Ticket-Lifecycle/blob/450d76c365a12b4411874269916e4c2817dc25fc/john_close_out_adobe_ticket.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
+</p>
 </details>
 
 ---
