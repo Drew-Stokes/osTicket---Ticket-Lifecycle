@@ -156,15 +156,16 @@ http://localhost/osTicket
  - 🏷️ **Priority**  
  - 🏢 **Department**  
  - ⏳ **SLA**  
- - 👤 **Assigned To**  
+ - 👤 **Assigned To**
+ -  **SLA**: ⏳ **Sev-B (4 hours, 24/7)**
+ -  **Department**: **Support**
 <p>
 <img src="https://github.com/Drew-Stokes/osTicket---Ticket-Lifecycle/blob/3a36447c6863f63041b1a936139e8b10db1c9070/setting_properties_on_cfo_ticket.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
 </p>
-2. Set properties:
- - **SLA**: ⏳ **Sev-B (4 hours, 24/7)**  
- - **Department**: **Support**  
-
 3. **Work the ticket to completion as John**.
+<p>
+<img src="https://github.com/Drew-Stokes/osTicket---Ticket-Lifecycle/blob/47df22051920e8300954e4487d31c1011feed667/CFO_ticket_resolved.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
+</p>
 </details>
 
 ---
