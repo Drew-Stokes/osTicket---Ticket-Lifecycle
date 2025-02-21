@@ -50,9 +50,7 @@ Edit
 - **End-User Portal**:  
 http://localhost/osTicket
 
-markdown
-Copy
-Edit
+
 </details>
 
 ---
