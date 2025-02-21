@@ -98,8 +98,13 @@ http://localhost/osTicket
  - **Department**: **Online Banking**  
 
 3. Attempt to observe the ticket again as **John**. Can you still view or modify it?
-
+<p>
+<img src="https://github.com/Drew-Stokes/osTicket---Ticket-Lifecycle/blob/b1d2f231c607c0bf3eef68c6e30d454cdfef6e65/observe_ticket.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
+</p>
 4. **Work the ticket to completion as Jane**.
+<p>
+<img src="https://github.com/Drew-Stokes/osTicket---Ticket-Lifecycle/blob/181f4337f9f3a9962c68d777085415eb679e690d/jane_take_over.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
+</p>
 </details>
 
 ---
@@ -111,7 +116,9 @@ http://localhost/osTicket
 #### **As an End-User**:
 1. Create a ticket:
  - **Issue**: Accounting department needs Adobe upgrade, broken.
-
+<p>
+<img src="https://github.com/Drew-Stokes/osTicket---Ticket-Lifecycle/blob/181f4337f9f3a9962c68d777085415eb679e690d/adobe_ticket.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
+</p>
 #### **As a Help Desk Agent (John)**:
 1. Observe the ticket’s properties:
  - 🏷️ **Priority**  
