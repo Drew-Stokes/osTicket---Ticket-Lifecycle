@@ -109,7 +109,7 @@ http://localhost/osTicket
 
 ---
 
-### **Ticket #2: Adobe Upgrade Needed (Broken)**
+### **Ticket #2: Adobe Upgrade Needed**
 <details>
 <summary><b>Click to Expand</b></summary>
 
