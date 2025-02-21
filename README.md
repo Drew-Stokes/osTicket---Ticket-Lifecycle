@@ -82,6 +82,9 @@ http://localhost/osTicket
 1. Navigate to the **End-User Portal**.
 2. Create a ticket:
  - **Issue**: Entire mobile/online banking system is down.
+<p>
+<img src="https://github.com/Drew-Stokes/osTicket---Ticket-Lifecycle/blob/ed00ff30ed8126a3df29631b1fdd1ea11a9877c7/banking_system_down.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
+</p>
 
 #### **As a Help Desk Agent (John)**:
 1. Observe the ticket’s properties:
